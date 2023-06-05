@@ -1,4 +1,4 @@
-Proyecto de Consola de Videojuegos
+´Proyecto de Consola de Videojuegos'
 Este proyecto es una aplicación de consola de videojuegos que te permite administrar y explorar una variedad de productos relacionados con videojuegos. Puedes agregar nuevos productos, incluyendo consolas y juegos, así como obtener información detallada sobre cada producto.
 
 Funcionalidades principales
